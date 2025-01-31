@@ -13,11 +13,11 @@
     margin: 0% 15% 10%;
 }
 
-<!--変になるから一旦
 .mainvisual{
     text-align: center;
     margin:0% 15% 3%;           
 }
+<!--変になるから一旦
 .mainvisual img{
     width:100%                    /*mainvisualの15%分フルで表示*/
 }
