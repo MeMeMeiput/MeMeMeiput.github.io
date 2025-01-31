@@ -1,0 +1,46 @@
+.Yanogamoshititle{
+    color:#280508;
+    font-family:'MPLUS1Code_R';
+    font-size:80px;
+    font-weight: 100;
+    text-align: center;
+    margin:10% 15% 0%             /*［上］ と ［左右］ と ［下］ を指定*/
+}
+.Yanogamoshisubtitle {
+    font-size: 20px;
+    text-align: center;
+}
+.Yanogamoshisubtitle  a{
+    color:#280508;
+    text-decoration: none;
+}
+.Yanogamoshisubtitle a:hover{
+    color:#fbeded;
+}
+.sitelink {
+    display: flex; /*横並び*/
+    justify-content: center;
+    margin:0% 15% 10%
+  }
+
+.Yanogamoshilogo{
+    margin: 0%;
+}
+.mainvisual{
+    text-align: center;
+    margin:0% 15% 3%;           
+}
+.mainvisual img{
+    width:100%                    /*mainvisualの15%分フルで表示*/
+}
+
+.Toollist{
+    display: flex;
+    justify-content: center;
+    margin: 0% 15% 0%;
+    padding:0
+
+}
+.Tool{
+    margin:0% 5% 0%;
+}
