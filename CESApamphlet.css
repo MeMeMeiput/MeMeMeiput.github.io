@@ -17,11 +17,9 @@
     text-align: center;
     margin:0% 15% 3%;           
 }
-<!--変になるから一旦
 .mainvisual img{
-    width:100%                    /*mainvisualの15%分フルで表示*/
+    width:85%                    /*mainvisualの15%分フルで表示*/
 }
--->
 
 .Toollist{
     display: flex;
