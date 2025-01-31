@@ -2,14 +2,14 @@
 @font-face { 
 	font-family: 'MPLUS1Code';
 	src: local('MPLUS1Code'), /* フォントがローカルにインストールされている場合に有効  */
-  url('css/font/M_PLUS_1_Code/MPLUS1Code-VariableFont_wght.ttf') format('truetype')
+  url('M_PLUS_1_Code/MPLUS1Code-VariableFont_wght.ttf') format('truetype')
 }
 /* M＋フォントまる文字 */
 /* Thin */
 @font-face { 
 	font-family:'MPLUS1Code_R';
   src: local('MPLUS1Code_R'), /* フォントがローカルにインストールされている場合に有効  */
-  url('css/font/M_PLUS_Rounded_1c/MPLUSRounded1c-Thin.ttf') format('truetype');
+  url('M_PLUS_Rounded_1c/MPLUSRounded1c-Thin.ttf') format('truetype');
   font-weight: 100;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @font-face { 
 	font-family:'MPLUS1Code_R';
   src: local('MPLUS1Code_R'), /* フォントがローカルにインストールされている場合に有効  */
-  url('css/font/M_PLUS_Rounded_1c/MPLUSRounded1c-Light.ttf') format('truetype');
+  url('M_PLUS_Rounded_1c/MPLUSRounded1c-Light.ttf') format('truetype');
   font-weight: 300;
   font-style: normal;
 }
@@ -25,7 +25,7 @@
 @font-face { 
 	font-family:'MPLUS1Code_R';
   src: local('MPLUS1Code_R'), /* フォントがローカルにインストールされている場合に有効  */
-  url('css/font/M_PLUS_Rounded_1c/MPLUSRounded1c-Regular.ttf') format('truetype');
+  url('M_PLUS_Rounded_1c/MPLUSRounded1c-Regular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
@@ -33,7 +33,7 @@
 @font-face { 
 	font-family:'MPLUS1Code_R';
   src: local('MPLUS1Code_R'), /* フォントがローカルにインストールされている場合に有効  */
-  url('css/font/M_PLUS_Rounded_1c/MPLUSRounded1c-Medium.ttf') format('truetype');
+  url('M_PLUS_Rounded_1c/MPLUSRounded1c-Medium.ttf') format('truetype');
   font-weight: 500;
   font-style: normal;
 }
@@ -41,7 +41,7 @@
 @font-face { 
 	font-family:'MPLUS1Code_R';
   src: local('MPLUS1Code_R'), /* フォントがローカルにインストールされている場合に有効  */
-  url('css/font/M_PLUS_Rounded_1c/MPLUSRounded1c-Bold.ttf') format('truetype');
+  url('M_PLUS_Rounded_1c/MPLUSRounded1c-Bold.ttf') format('truetype');
   font-weight: 700;
   font-style: normal;
 }
@@ -49,7 +49,7 @@
 @font-face { 
 	font-family:'MPLUS1Code_R';
   src: local('MPLUS1Code_R'), /* フォントがローカルにインストールされている場合に有効  */
-  url('css/font/M_PLUS_Rounded_1c/MPLUSRounded1c-ExtraBold.ttf') format('truetype');
+  url('M_PLUS_Rounded_1c/MPLUSRounded1c-ExtraBold.ttf') format('truetype');
   font-weight: 800;
   font-style: normal;
 }
