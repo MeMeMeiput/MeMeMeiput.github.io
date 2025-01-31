@@ -1,0 +1,65 @@
+.Workstitle{
+    color:#280508;
+    font-size:50px;
+    text-align: center;
+    margin:10% 15% 5%/*［上］ と ［左右］ と ［下］ を指定*/
+}
+
+
+.Work {
+    margin:0% 3% 5%;  /*［上］ と ［左右］ と ［下］ を指定*/
+}
+
+/* .Worklist { 
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    justify-content: center;
+    padding: 0;
+}
+
+.Worklist li {
+    flex: 0 0 calc(50% - 20px);
+    flex-direction: column;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0% 0% 20%;
+}
+*/
+.Worklist{
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0% 0% 0%;
+    padding: 0% 0% 0%;
+}
+.Worklist_Item{
+    display:block;
+    padding: 0% 5% 10%;
+}
+.Worklist_Item a:hover{
+    opacity: 0.7;
+}
+.Worklist a{
+    text-decoration: none;
+    color:#280508
+}
+.Worklist img {
+    width: 450px;
+    height: auto;
+    display: block;
+}
+.Worklist_Titleblock{
+    padding:0% 0% 0% 0%;
+    float: left;
+}
+.Worklist h2{
+    margin:0% 0% 0% 0%;
+}
+.Worklist p {
+    text-align: left;
+    margin:2% 0% 0%
+}
