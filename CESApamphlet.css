@@ -12,11 +12,12 @@
     text-align: center;
     margin: 0% 15% 10%;
 }
-<--!
+
 .mainvisual{
     text-align: center;
     margin:0% 15% 3%;           
 }
+<--!
 .mainvisual img{
     width:85%                    /*mainvisualの15%分フルで表示*/
 }
