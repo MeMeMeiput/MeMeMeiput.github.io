@@ -114,6 +114,7 @@ body {
     font-weight: 500;
     margin: 10% 0% 0%;  /*［上］ と ［左右］ と ［下］ を指定*/
     letter-spacing: 0.0385em;
+    vertical-align: middle;
   }
 
 /*青木芽生に挟む画像*/
