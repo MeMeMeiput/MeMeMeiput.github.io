@@ -1,4 +1,4 @@
-.SkyPalettetitle{
+.CESAtitle{
     color:#280508;
     font-family:'MPLUS1Code_R';
     font-size:80px;
@@ -6,7 +6,7 @@
     text-align: center;
     margin:10% 15% 0%             /*［上］ と ［左右］ と ［下］ を指定*/
 }
-.SkyPalettesubtitle{
+.CESAsubtitle{
     color: #280508;
     font-size: 20px;
     text-align: center;
