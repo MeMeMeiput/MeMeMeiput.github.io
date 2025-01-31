@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Progate</title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="_CESApamphlet.css">
+    <script src="script.js"></script>
+  </head>
+
+  <body>
+    <!-- ヘッダー -->
+    <header>
+      <!-- TOPページに戻る画像 -->
+      <h1 class="TOP"><a href="index.html"><img src="HOMEパス" width="65" alt="top"></a></h1>
+    <nav> 
+      <ul class="main-menu">
+        <li><a href="works.html">WORKS</a></li> <!-- a href=”リンク先パス” target=”_blank”>リンクテキスト</a> --><!--別タグでの遷移法-->
+        <li><a href="about.html">ABOUT</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+      </ul>
+    </nav>
+    </header>
+
+  <main>
+    <h1 class="SkyPalettetitle">~CESA パンフレット~</h1>
+    <p class="SkyPalettesubtitle">小学生向けゲーム業界紹介</p>
+
+    <div class="mainvisual">
+      <img src="日本語1.png" alt="パンフレット表紙" />
+    </div>
+    <div class="mainvisual">
+      <img src="日本語2.png" alt="パンフレット見開き" />
+    </div>
+    
+    <ul class ="Toollist">
+      <li class="Tool">
+        <img src ="photoshoplogo.png" width="50px" alt="photoshop">
+      </li>
+      <li class="Tool">
+        <img src ="illustrator_logo.png" width="50px" alt="illustrator">
+      </li>
+      <li class="Tool">
+        <img src ="maya_logo.png" width="50px" alt="Maya">
+      </li>
+
+    
+
+  </main>
+
+    <!-- footer -->
+    <footer>
+      <ul class="footer-menu">
+        <li><a href="works.html">WORKS</a></li> <!-- a href=”リンク先パス” target=”_blank”>リンクテキスト</a> --><!--別タグでの遷移法-->
+        <li><a href="about.html">ABOUT</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+      </ul>
+      <div class="footer-copyright">
+        <p class="copyright">© 2024 <a href="file:///C:/Users/MeMeMeiput/Desktop/CGanimation/HP_code/index.html">Aokimei.</a> All Rights Reserved.
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>
